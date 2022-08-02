@@ -18,3 +18,10 @@ dipartimenti:
  - Matematica
  - ingegneria 
  - filosofia
+
+
+ Laurea : 
+ - nome_laurea
+
+
+ - 
